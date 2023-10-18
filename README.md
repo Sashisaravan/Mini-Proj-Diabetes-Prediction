@@ -16,3 +16,10 @@ Network) provides 86% - 90% of accuracy.
 
 
 ![Diabetes pic 1](https://github.com/Sashisaravan/Mini-Proj-Diabetes-Prediction/assets/72851217/52b83dab-6316-4546-872f-114af032d957)
+
+![Diabetes pic 2](https://github.com/Sashisaravan/Mini-Proj-Diabetes-Prediction/assets/72851217/a9be9485-8124-46a4-bd51-0e1a1f5589cd)
+
+![Diabetes pic 3](https://github.com/Sashisaravan/Mini-Proj-Diabetes-Prediction/assets/72851217/8eef94d5-99fc-4216-a0ac-01382da2a8ff)
+
+![Diabetes pic 4](https://github.com/Sashisaravan/Mini-Proj-Diabetes-Prediction/assets/72851217/293d078e-76e7-4821-924f-0e2e88927ba8)
+
