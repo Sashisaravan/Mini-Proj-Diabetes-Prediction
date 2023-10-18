@@ -1,5 +1,9 @@
 # Mini-Proj-Diabetes-Prediction
 
+#Novel prediction methods using machine learning
+algorithms for serum diabetes
+
+
 Diabetes is often called a modern-society disease because lack of regular exercise
 and rising obesity rates are some of the main contributing factors for it and as per
 global health statistics. Machine learning is used to predict diabetes. Machine learning
